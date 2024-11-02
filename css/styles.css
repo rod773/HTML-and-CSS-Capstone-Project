@@ -12,7 +12,7 @@ body {
 
 header {
   width: 100%;
-  height: 70px;
+  height: 10vh;
   background-color: aliceblue;
 }
 
@@ -41,4 +41,27 @@ header a:hover {
   background-color: rgba(92, 43, 226, 0.307);
   padding: 12px 20px;
   border-radius: 7px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container section {
+  width: 50%;
+  height: 40vh;
+  text-align: justify;
+}
+
+section h2 {
+  text-align: center;
+}
+
+.title {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
