@@ -40,8 +40,6 @@ header a {
 
 header a:hover {
   background-color: rgba(37, 130, 116, 0.549);
-  padding: 12px 20px;
-  border-radius: 7px;
 }
 
 .container {
