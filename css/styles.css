@@ -35,7 +35,7 @@ header a {
   border-radius: 5px;
   transition: all ease-in-out 0.5s;
   font-weight: bold;
-  border: solid 1px;
+  border: solid 1px lightblue;
 }
 
 header a:hover {
